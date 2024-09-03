@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034224141733",
+    "firebase_url": "https://trackingappmini-default-rtdb.firebaseio.com",
+    "project_id": "trackingappmini",
+    "storage_bucket": "trackingappmini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034224141733:android:98637887588b5a3b4e944c",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034224141733-ji8tnc4beluq1rb5n88gteb4mi560388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqzHDmMEDwqaQRN20uw79PRrS0hLWSUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034224141733-ji8tnc4beluq1rb5n88gteb4mi560388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
